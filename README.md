@@ -1,1 +1,2 @@
-# git_lab_new
+#new repository
+for practical
